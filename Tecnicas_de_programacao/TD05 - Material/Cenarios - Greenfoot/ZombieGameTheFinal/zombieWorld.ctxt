@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=zombieWorld()
+comment2.params=
+comment2.target=void\ boxSpawn()
+comment3.params=
+comment3.target=void\ carSpawn()
+comment4.params=
+comment4.target=void\ zombieSpawn()
+comment5.params=
+comment5.target=void\ clean()
+comment6.params=
+comment6.target=void\ gameOver()
+numComments=7

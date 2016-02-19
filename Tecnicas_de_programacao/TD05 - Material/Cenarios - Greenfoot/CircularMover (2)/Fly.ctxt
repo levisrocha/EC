@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=initRot\ cW
+comment0.target=Fly(int,\ boolean)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Fly.\nCreate\ new\ Fly\ with\ initial\ object\ rotation\ initRot\ \ \ \ \n\n
+comment1.params=MyWorld
+comment1.target=void\ addedToWorld(World)
+comment2.target=void\ act()
+comment3.target=void\ flyAttrib()
+comment4.target=boolean\ isMoving()
+comment5.params=mov
+comment5.target=void\ setMoving(boolean)
+comment6.target=void\ removeLFly()
+numComments=7

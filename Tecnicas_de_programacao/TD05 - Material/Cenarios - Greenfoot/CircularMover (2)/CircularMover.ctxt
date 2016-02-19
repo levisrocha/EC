@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.target=CircularMover()
+comment1.params=vV
+comment1.target=CircularMover(Vector)
+comment1.text=\nCreate\ new\ actor\ with\ initial\ linear\ velocity\ vector\ vV\ \ \n\n
+comment10.target=double\ getExactX()
+comment11.target=double\ getExactY()
+comment12.params=force
+comment12.target=void\ addForce(Vector)
+comment12.text=\nIncrease\ linear\ speed\ with\ the\ given\ vector\ force\n\n
+comment13.params=factor
+comment13.target=void\ accelerate(double)
+comment13.text=\nAccelerate\ linear\ speed\ by\ the\ given\ factor\ (factor\ <\ 1\ means\ decelerate)\n\n
+comment14.target=double\ getSpeed()
+comment14.text=\nReturn\ the\ linear\ speed\ of\ this\ actor\n\n
+comment15.target=void\ stop()
+comment15.text=\nStop\n\n
+comment16.target=Vector\ getvV()
+comment16.text=\nReturn\ the\ current\ linear\ speed\ vector\n\n
+comment2.params=cW
+comment2.target=void\ setCDir(boolean)
+comment2.text=\nSet\ circular\ movement\ direction\ cWise\ (true\=clockwise\ ;\ false\=counterclockwise)\n\n
+comment3.target=void\ moveCir()
+comment3.text=\nMove\ in\ circular\ path\ in\ current\ direction\ (clockwise\ or\ counterclockwise)\n\n
+comment4.params=xx\ yy
+comment4.target=void\ setLocation(double,\ double)
+comment5.params=xx\ yy
+comment5.target=void\ setLocation(int,\ int)
+comment6.params=rr
+comment6.target=void\ setRotation(int)
+comment7.params=cr
+comment7.target=void\ setCR(double)
+comment8.target=void\ calcCP()
+comment8.text=\nCalculate\ the\ center\ of\ circular\ path\ (cPX,cPY)\ position\ncall\ this\ method\ once\ after\ the\ actor\ added\ to\ the\ world\nthe\ center\ of\ circular\ path\ cPX,cPY\ is\ an\ offset\ point\ "below"\ the\ actor\ center\ position\n\n
+comment9.target=void\ calcVCP()
+comment9.text=\nCalculate\ vector\ vCP\ (reverse\ direction)\nthe\ centripetal\ vector\ vCP\ direction\ is\ always\ +90\ degrees\ from\ the\ actor\ rotation\ objRot\nreverse\ vCP\ direction\ to\ get\ the\ actor\ new\ exactX,Y\ from\ the\ known\ center\ of\ circular\ path\ cPX,Y\n\n
+numComments=17

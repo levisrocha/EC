@@ -1,0 +1,6 @@
+Aceitar	Todas	192.168.10.3	Todas	25
+Aceitar	192.168.10.0	Todas	Todas	80
+Aceitar	Todas	Todas	Todas	8080
+Aceitar	192.168.10.20	194.154.2.1	Todas	25
+Negar	Todas	192.168.2.1	Todas	23
+Aceitar	127.0.0.1	Todas	23	Todas

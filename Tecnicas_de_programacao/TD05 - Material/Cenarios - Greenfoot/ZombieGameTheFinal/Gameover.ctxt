@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Gameover.\r\n\ \r\n
+comment1.params=m_point
+comment1.target=Gameover(int)
+comment2.params=
+comment2.target=void\ restart()
+numComments=3
